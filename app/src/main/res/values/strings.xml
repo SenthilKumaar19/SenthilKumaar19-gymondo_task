@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogBreeds</string>
+    <string name="dog_details">Dog Details</string>
+    <string name="back">Back</string>
+    <string name="origin">Origin: %1$s</string>
+    <string name="lifespan">Lifespan: %1$s</string>
+    <string name="temperament">Temperament: %1$s</string>
+    <string name="unknown">Unknown</string>
+    <string name="dog_breeds">Dog Breeds</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="refresh">refresh</string>
+    <string name="retry">retry</string>
+</resources>
